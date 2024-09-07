@@ -1,4 +1,4 @@
-My First  AutoGen Project
+My Introductory Exploratory Project on AutoGen 
 
 Hey everyone! I'm excited to share my first AutoGen project with you. AutoGen is a powerful framework that allows you to create and manage multiple AI agents to collaborate on complex tasks.
 
