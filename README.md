@@ -4,7 +4,14 @@ Hey everyone! I'm excited to share my first AutoGen project with you. AutoGen is
 
 **What is AutoGen?**
 
-Think of it like a virtual team of AI assistants. You can assign specific tasks to each agent, and they'll work together to complete the job. In my project, I created two agents:
+Think of it like a virtual team of AI assistants. You can assign specific tasks to each agent, and they'll work together to complete the job. To facilitate this collaboration, AutoGen introduces three key components: the Group Chat Manager, the User Proxy Agent, and the AI Assistant Agent.
+
+1. **Group Chat Manager:** Coordinates agent interactions and ensures smooth communication.
+2. **User Proxy Agent:** Represents the human user, providing input and receiving feedback.
+3. **AI Assistant Agent:** Performs tasks, communicates with other agents, and learns from interactions.
+
+
+In my project, I created two agents:
 
 1. **The Snake Game Agent:** This agent was responsible for generating and managing the code for a simple Snake game.
 2. **The Stock Analysis Agent:** This agent fetched stock price data and provided analysis and visualizations.
